@@ -1,0 +1,23 @@
+.container{
+	border-radius: 25px;
+	border-color: black;
+	width: 60vw;
+	height: 60vw;
+	display: flex;
+}
+
+.filas{
+	border: 1px solid black;
+}
+
+.columnas-b{
+	background-color: black;
+	width: 10vw;
+	height: 10vw;
+}
+
+.columnas-w{
+	background-color: white;
+	width: 10vw;
+	height: 10vw;
+}
